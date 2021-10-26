@@ -33,6 +33,7 @@ nav {
     width: 30px;
     height: 3px;
     background-color: transparent;
+    position: relative;
 }
 
 .menu::after,
